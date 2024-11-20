@@ -1,0 +1,13 @@
+/* src/components/Board/Board.css */
+.board {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    margin: 10px;
+}
+
+.column h2 {
+    text-align: center;
+}

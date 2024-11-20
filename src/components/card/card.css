@@ -1,0 +1,8 @@
+/* src/components/Card/Card.css */
+.card {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
